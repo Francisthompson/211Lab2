@@ -1,0 +1,4 @@
+ID,Name,Address,SIN,Salary/Rate
+0001,John Doe,123 Main St,123456789,1000.00
+5001,Jane Smith,456 Elm St,987654321,20.00
+8001,David Johnson,789 Oak St,135792468,15.00
